@@ -189,7 +189,7 @@ ul li:last-child a {
     /* background-color: #fdebed; */
     /* text-align: center; */
     overflow: hidden;
-    border: 1px solid rgb(71, 255, 86);
+   
 }
 
 .s_part-1 {
@@ -202,22 +202,6 @@ ul li:last-child a {
 .s_part-1:last-child{
    margin-right: 0;
 }
-.s_part-2 {
-    width: 28%;
-    margin-right: 33px;
-    background-color: #ebf9f4;
-    float: left;
-    padding-left: 25px;
-}
-
-.s_part-3 {
-    width: 28%;
-    margin-right: 33px;
-    background-color: #fff7e8;
-    float: left;
-    padding-left: 25px;
-}
-
 .s_img {
     width: 100%;
 }
